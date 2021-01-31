@@ -1,4 +1,4 @@
-## Simple example of Testing Framework using Python Pytest.
+## Simple example of Testing Framework using Python and Pytest.
 ### install
 ```
 pip install -r requirements.txt
